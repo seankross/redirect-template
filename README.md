@@ -4,7 +4,7 @@ This repository serves as a public template to set up a simple HTML redirection.
 
 To use this template, simply click on the "Use this template" button on the top of this repository page. This will allow you to create a new repository with the same files and structure.
 
-The particularity of this template is that it makes a redirection to another page that you can specify. This redirection is usually done by other means (for instance as an entry in the '.htaccess'file, in the case of an Apache server), but it can be useful to use this simple way in some situations.
+The particularity of this template is that it makes a redirection to another page that you can specify. This redirection is usually done by other means (for instance as an entry in the `.htaccess` file, in the case of an Apache server), but it can be useful to use this simple way in some situations.
 
 ## Customizing the Template
 
